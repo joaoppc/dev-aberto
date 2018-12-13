@@ -583,10 +583,11 @@
 
     },
     {
-        "player_uuid": "9d1e3eba-9b30-11e8-9245-5cc9d39cfa3c",
-        "skill_id": 3,
-        "proof": "",
-        "date": "2018-11-28"
+        "player_uuid": "644e36d0-99b3-11e8-a4e3-0005165e06fb",
+        "skill_id": 5,
+        "proof": "https://github.com/spyder-ide/spyder/pull/8426",
+        "date": "2018-12-12"
+
     }
 
 ]
